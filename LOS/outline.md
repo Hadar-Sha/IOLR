@@ -3,7 +3,9 @@ Navigation of Underwater Autonomous Vehicle (AUV)
 ## Motivation
 Challenge: GPS doesn't work underwater
 
-![gps icon](images/no_gps.png)
+![gps icon](images/no_gps.png =100)
+
+
 Acoustic sensors are used underwater
 
 The AUV is sent to a mission and needs to dock to charge / transfer data
